@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/processor/bprocessor
+module github.com/onfla11/bprocessor
 
 go 1.20
 
@@ -43,3 +43,5 @@ require (
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/onfla11/bprocessor v0.0.0 => /Users/nsankhe/opentelemetry-collector/processor/biqprocessor
