@@ -44,4 +44,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/onfla11/bprocessor v0.0.0 => /Users/nsankhe/opentelemetry-collector/processor/biqprocessor
+replace github.com/onfla11/bprocessor v0.0.0 => /Users/nsankhe/bprocessor
